@@ -1,0 +1,10 @@
+snowboydecoder
+selenium~=3.141.0
+numpy~=1.19.2
+matplotlib~=3.3.2
+PyAudio~=0.2.11
+requests~=2.24.0
+setuptools~=50.3.0
+playsound~=1.2.2
+JACK-Client~=0.5.2
+scipy~=1.5.2
