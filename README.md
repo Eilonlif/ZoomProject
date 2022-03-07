@@ -15,5 +15,10 @@ step 1:
 
 step 2:
  - Implicitly wait for the teacher to say my name
- - If my name is said, play a recording of myself saying I'm present
- - Quit the program (to not say I'm present twice or more)
+ - If my name is said, play a recording of myself saying "I'm present"
+ - Quit the program (to not say "I'm present" twice or more)
+
+# Plans for the future:
+ - [ ] Add option for saying things other than "I'm present"
+ - [ ] Change the implementation for using the browser Zoom
+ - [ ] Change the `selenium` implementation to not use `xpath` because it's unreliable
